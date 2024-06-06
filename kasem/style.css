@@ -1,0 +1,63 @@
+img{
+    width:100%;}
+
+.logo-img{
+    width: 100px;
+}
+
+
+.nav-link{
+    color: black;
+    font-size: 1.2rem;
+    font-weight: 900;
+    /* font-family: "Ubuntu Sans Mono", monospace; */
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h1{
+    text-align: center;
+    padding: 40px 0;
+}
+h2{
+    /* padding: 20px 0; */
+}
+.zoom:hover{
+    transform: scale(2);
+}
+.zoom{
+    transition: 0.5s;
+}
+.col-md-5,  .container-fluid{
+    overflow: hidden;
+}
+.text-shruft{
+    font-family: "Rubik", sans-serif;
+}
+
+.navbar{
+    border-bottom: 2px solid black;
+}
+footer{
+    background-color: #ffffff;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: #7b7b7b; 
+    margin-top: 50px;
+}
+.socio{
+    color: rgb(0, 0, 0);
+   
+    font-size: 1.5em;
+}
+.logo-img{
+    color: black;
+}
+.logo-footer{
+    width: 130px;
+}
+.line{
+    border-bottom: 2px solid black;
+margin-bottom: 20px;
+}
+.active{
+    color: #925505 !important;
+}
